@@ -18,4 +18,6 @@ Hello World!
 		[Part2](Similarity/Similarity_-_Notebook_2_-_Classification.pdf)
 		[Part3](Similarity/Similarity_-_Clustering_-_Part_3.pdf)
 		[Part4](Similarity/Similarity_-_Dimensionality_-_Reduction_-_Part4.pdf)
+		[Narrative](Similarity/Searching_for_Similarity)
+
 		
