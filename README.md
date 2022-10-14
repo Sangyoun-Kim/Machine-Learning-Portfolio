@@ -21,8 +21,8 @@ Hello World!
 		[Narrative](Similarity/Searching_for_Similarity.pdf)
 
 2022-10-14	Added [ML_from_Scratch](ML_from_Scratch) to repo
-		[Naive Bayes]()
-		[Logistic Regression]()
-		[Document]()
+		[Naive Bayes](ML_from_Scratch/NB.cpp)
+		[Logistic Regression](ML_from_Scratch/Logreg.cpp)
+		[Document](CS4375.003_Simon_Kim_ML_from_Scratch.pdf)
 
 		
