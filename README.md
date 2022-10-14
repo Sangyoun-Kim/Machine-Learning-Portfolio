@@ -20,4 +20,9 @@ Hello World!
 		[Part4](Similarity/Similarity_-_Dimensionality_-_Reduction_-_Part4.pdf)
 		[Narrative](Similarity/Searching_for_Similarity.pdf)
 
+2022-10-14	Added [ML_from_Scratch](ML_from_Scratch) to repo
+		[Naive Bayes]()
+		[Logistic Regression]()
+		[Document]()
+
 		
