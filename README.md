@@ -25,4 +25,11 @@ Hello World!
 		[Logistic Regression](ML_from_Scratch/Logreg.cpp)
 		[Document](CS4375.003_Simon_Kim_ML_from_Scratch.pdf)
 
+2022-10-22	Added [SVM_Ensemble](SVM_Ensemble) to repo
+		[SVM_Classification](CS4375.003_SimonKim_sxk190106_SVM_Classification.pdf)
+		[SVM_Regression](CS4375.003_SimonKim_sxk190106_SVM_Regression.pdf)
+		[SVMEnsemble_Narrative](CS4375.003_SVMEnsemble_Narrative.docx)
+		[Ensemble](Ensemble.pdf)
+		
+		
 		
