@@ -31,5 +31,9 @@ Hello World!
 		[SVMEnsemble_Narrative](CS4375.003_SVMEnsemble_Narrative.docx)
 		[Ensemble](Ensemble.pdf)
 		
-		
+2022-11-06	Added [ML_with_sklearn](ML_with_sklearn) to repo
+		[dataset](Auto.csv)
+		[pdf of the Notebook](CS4375_003_SimonKim_sxk190106_ML_with_Python.pdf)
+		[html of the Notebook](CS4375_003_SimonKim_sxk190106_ML_with_Python.html)
+		[colab notebook](CS4375_003_SimonKim_sxk190106_ML_with_Python.ipynb)
 		
