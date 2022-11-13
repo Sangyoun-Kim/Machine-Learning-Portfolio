@@ -36,4 +36,6 @@ Hello World!
 		[pdf of the Notebook](CS4375_003_SimonKim_sxk190106_ML_with_Python.pdf)
 		[html of the Notebook](CS4375_003_SimonKim_sxk190106_ML_with_Python.html)
 		[colab notebook](CS4375_003_SimonKim_sxk190106_ML_with_Python.ipynb)
+
+2022-11-13	Added [Deeplearning_ppt](Variance_and_Standard_error.pptx) to repo
 		
