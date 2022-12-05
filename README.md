@@ -39,3 +39,5 @@ Hello World!
 
 2022-11-13	Added [Deeplearning_ppt](Variance_and_Standard_error.pptx) to repo
 		
+2022-12-04 	Added [ImageClassification](CS4375.003_image_classification.pdf)
+		unfinished work, so there might be some modification later
